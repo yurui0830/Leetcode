@@ -2,7 +2,7 @@
 
 ## Array/Vector/Queue/Map
 
-    [18 4Sum / Medium](https://github.com/yurui0830/Leetcode/blob/master/18%204Sum/18%204Sum/main.cpp)
+[18 4Sum / Medium](https://github.com/yurui0830/Leetcode/blob/master/18%204Sum/18%204Sum/main.cpp)
     57 Insert Interval / Hard
     352 Data Stream as Disjoint Intervals / Hard
     239 Sliding Window Maximum / Hard
