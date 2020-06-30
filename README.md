@@ -8,7 +8,7 @@
 
 [57 Insert Interval / Hard](https://github.com/yurui0830/Leetcode/blob/master/57%20Insert%20Interval/57%20Insert%20Interval/main.cpp)
 
-[31. Next Permutation]()
+[31. Next Permutation](https://github.com/yurui0830/Leetcode/blob/master/31%20Next%20Permutation/31%20Next%20Permutation/main.cpp)
 
 [352 Data Stream as Disjoint Intervals / Hard](https://github.com/yurui0830/Leetcode/blob/master/352%20Data%20Stream%20as%20Disjoint%20Intervals/352%20Data%20Stream%20as%20Disjoint%20Intervals/main.cpp)
 
@@ -46,9 +46,9 @@
 
 ### Queue/Stack/Map/Set
 
-[219. Contains Duplicate II]()
+[219. Contains Duplicate II](https://github.com/yurui0830/Leetcode/blob/master/219%20Contains%20Duplicate%20II/219%20Contains%20Duplicate%20II/main.cpp)
 
-[381Insert Delete GetRandom O(1) - Duplicates allowed / Hard]()
+[381Insert Delete GetRandom O(1) - Duplicates allowed / Hard](https://github.com/yurui0830/Leetcode/blob/master/381%20Insert%20Delete%20GetRandom%20O(1)%20-%20Duplicates%20allowed/381%20Insert%20Delete%20GetRandom%20O(1)%20-%20Duplicates%20allowed/main.cpp)
 
 [215 Kth Largest Element in an Array Medium](https://github.com/yurui0830/Leetcode/blob/master/215%20Kth%20Largest%20Element%20in%20an%20Array/215%20Kth%20Largest%20Element%20in%20an%20Array/main.cpp)
 
