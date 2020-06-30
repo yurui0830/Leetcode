@@ -20,5 +20,10 @@
     42 Trapping Rain Water / Hard
     84 Largest Rectangle in Histogram / Hard
     85 Maximal Rectangle / Hard
-
+    37 Sudoku Solver / Hard
+    63 Unique Paths II / Medium
+    105 Construct Binary Tree from Preorder and Inorder Traversal / Medium
+    106 Construct Binary Tree from Inorder and Postorder Traversal / Medium
+    
+    
 ## Linked List
