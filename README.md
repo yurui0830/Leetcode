@@ -1,4 +1,4 @@
-# Leetcode Problems
+# Algorithm Problems
 
 ## Array/Vector/Queue/Map/Set
 
@@ -65,3 +65,83 @@
 [106 Construct Binary Tree from Inorder and Postorder Traversal / Medium](https://github.com/yurui0830/Leetcode/blob/master/106%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal/106%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal/main.cpp)
 
 ## Linked List
+
+
+# Database Problems
+
+## MySQL
+
+### SELECT, WHERE
+
+[595 Big Countries / Easy](https://leetcode.com/problems/big-countries/) SELECT, WHERE
+
+[620 Not Boring Movies / Easy](https://leetcode.com/problems/not-boring-movies/) ORDER
+
+[178 Rank Scores / Medium](https://leetcode.com/problems/rank-scores/) COUNT, DISTINCT, SELECT
+
+
+### JOIN
+
+[175 Combine Two Tables / Easy](https://leetcode.com/problems/combine-two-tables/) LEFT JOIN
+
+[181 Employees Earning More Than Their Managers / Easy](https://leetcode.com/problems/employees-earning-more-than-their-managers/) JOIN, SELECT
+
+[183 Customers Who Never Order / Easy](https://leetcode.com/problems/customers-who-never-order/) JOIN, SELECT
+
+[197 Rising Temperature / Easy](https://leetcode.com/problems/rising-temperature/) DATEDIFF
+
+[601 Human Traffic of Stadium / Hard](https://leetcode.com/problems/human-traffic-of-stadium/) DISTINCT, SELECT, 3 TABLES JOIN
+
+[180 Consecutive Numbers / Medium](https://leetcode.com/problems/consecutive-numbers/) DISTINCT, SELECT, 3 TABLES JOIN
+
+[184 Department Highest Salary / Medium](https://leetcode.com/problems/department-highest-salary/) WHERE, IN, MAX, GROUP BY
+
+[185 Department Top Three Salaries / Hard](https://leetcode.com/problems/department-top-three-salaries/) COUNT, JOIN
+
+[262 Trips and Users](https://leetcode.com/problems/trips-and-users/) SUM, COUNT, CASE, GROUP BY
+
+
+### LIMIT, OFFSET
+
+[176 Second Highest Salary / Easy](https://leetcode.com/problems/second-highest-salary/)LIMIT, OFFSET, IFNULL
+
+[177 Nth Highest Salary / Medium](https://leetcode.com/problems/nth-highest-salary/) CREATE FUNCTION, DECLARE, SET, LIMIT, OFFSET
+
+
+### GROUP BY, HAVING
+
+[182 Duplicate Emails / Easy](https://leetcode.com/problems/duplicate-emails/) GROUP BY, HAVING, COUNT
+
+[596 Classes More Than 5 Students / Easy](https://leetcode.com/problems/classes-more-than-5-students/) DISTINCT, GROUP BY, HAVING, COUNT
+
+[184 Department Highest Salary / Medium](https://leetcode.com/problems/department-highest-salary/) WHERE, IN, MAX, GROUP BY
+
+[262 Trips and Users](https://leetcode.com/problems/trips-and-users/) SUM, COUNT, CASE, GROUP BY
+
+
+### DELETE
+
+[196 Delete Duplicate Emails / Easy](https://leetcode.com/problems/delete-duplicate-emails/) DELETE
+
+
+### UPDATE
+
+[627 Swap Salary / Easy](https://leetcode.com/problems/swap-salary/) UPDATE, SET, IF
+
+
+### ALGORITHM
+
+[627 Swap Salary / Easy](https://leetcode.com/problems/swap-salary/) UPDATE, SET, IF
+
+[626 Exchange Seats / Medium](https://leetcode.com/problems/exchange-seats/) CASE, COUNT
+
+[178 Rank Scores / Medium](https://leetcode.com/problems/rank-scores/) COUNT, DISTINCT, SELECT
+
+[185 Department Top Three Salaries / Hard](https://leetcode.com/problems/department-top-three-salaries/) COUNT, JOIN
+
+[262 Trips and Users](https://leetcode.com/problems/trips-and-users/) SUM, COUNT, CASE, GROUP BY
+
+
+### FUNCTION
+
+[177 Nth Highest Salary / Medium](https://leetcode.com/problems/nth-highest-salary/) CREATE FUNCTION, DECLARE, SET, LIMIT, OFFSET
